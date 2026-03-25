@@ -29,12 +29,12 @@ Copywriting & Storytelling
 <img width="1366" height="768" alt="Screenshot (593)" src="https://github.com/user-attachments/assets/829477b6-592c-458e-a155-94c1dff20474" />
 <img width="1331" height="672" alt="Screenshot (595)" src="https://github.com/user-attachments/assets/4060fcdf-7965-4a58-827d-005b606165d2" />
 
-<img width="1920" height="1080" alt="DESAIN   EDITING PORTFOLIO (3)" src="https://github.com/user-attachments/assets/68259e02-e628-4677-999c-4f4578ce6f13" />
-
 ### 2️⃣ Ice Tea Instagram, Facebook & Tiktok 
 - Platform: Instagram
 - Content style: Educational + humor
 - Focus: Lead generation & brand trust Copywriting & Storytelling
+
+<img width="1920" height="1080" alt="DESAIN   EDITING PORTFOLIO (3)" src="https://github.com/user-attachments/assets/68259e02-e628-4677-999c-4f4578ce6f13" />
 
 ### Social Media & Content 
 - ![tiktok dewiprabu](https://github.com/user-attachments/assets/66e2f1f5-b15f-419b-a444-1533a688840d)
