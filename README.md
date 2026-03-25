@@ -29,6 +29,11 @@ Copywriting & Storytelling
 - Content style: Educational + humor
 - Focus: Lead generation & brand trust Copywriting & Storytelling
 
+### Built an interactive mobile app campaign dashboard with CPI & ROAS analysis and budget simulation.
+<img width="1366" height="768" alt="Screenshot (593)" src="https://github.com/user-attachments/assets/829477b6-592c-458e-a155-94c1dff20474" />
+<img width="1331" height="672" alt="Screenshot (595)" src="https://github.com/user-attachments/assets/4060fcdf-7965-4a58-827d-005b606165d2" />
+
+
 ## 📬 Contact
 - Email : Fandiyoku@gmail.com
 - Instagram :https://www.instagram.com/fandyalfando56?igsh=MWZ0d2wwaG9lN2MyYg%3D%3D&utm_source=qr
