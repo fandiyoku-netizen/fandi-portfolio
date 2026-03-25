@@ -24,22 +24,17 @@ Copywriting & Storytelling
 - Result: High engagement & share rate
 <img width="1920" height="1080" alt="DESAIN   EDITING PORTFOLIO (2)" src="https://github.com/user-attachments/assets/054a08c5-d100-4f45-b577-07e9096821e9" />
 
-### 2️⃣ Ice Tea Instagram, Facebook & Tiktok 
-- Platform: Instagram
-- Content style: Educational + humor
-- Focus: Lead generation & brand trust Copywriting & Storytelling
 
 ### Built an interactive mobile app campaign dashboard with CPI & ROAS analysis and budget simulation.
 <img width="1366" height="768" alt="Screenshot (593)" src="https://github.com/user-attachments/assets/829477b6-592c-458e-a155-94c1dff20474" />
 <img width="1331" height="672" alt="Screenshot (595)" src="https://github.com/user-attachments/assets/4060fcdf-7965-4a58-827d-005b606165d2" />
 
-
-## 📬 Contact
-- Email : Fandiyoku@gmail.com
-- Instagram :https://www.instagram.com/fandyalfando56?igsh=MWZ0d2wwaG9lN2MyYg%3D%3D&utm_source=qr
-- Linkedln : https://www.linkedin.com/in/fandy-yoku-a0264a176/
-
 <img width="1920" height="1080" alt="DESAIN   EDITING PORTFOLIO (3)" src="https://github.com/user-attachments/assets/68259e02-e628-4677-999c-4f4578ce6f13" />
+
+### 2️⃣ Ice Tea Instagram, Facebook & Tiktok 
+- Platform: Instagram
+- Content style: Educational + humor
+- Focus: Lead generation & brand trust Copywriting & Storytelling
 
 ### Social Media & Content 
 - ![tiktok dewiprabu](https://github.com/user-attachments/assets/66e2f1f5-b15f-419b-a444-1533a688840d)
@@ -47,3 +42,8 @@ Copywriting & Storytelling
 ![my ig](https://github.com/user-attachments/assets/25bdbe8c-fa4b-4de8-b1ca-f1b66c3f2630)
 <img width="1170" height="2532" alt="ins esteh" src="https://github.com/user-attachments/assets/1b9265b4-6e6e-47e4-b6bb-cf6faaccf57f" />
 <img width="1920" height="1080" alt="DESAIN   EDITING PORTFOLIO (4)" src="https://github.com/user-attachments/assets/7817dfa2-dc24-4a94-904a-c617a41906bc" />
+
+## 📬 Contact
+- Email : Fandiyoku@gmail.com
+- Instagram :https://www.instagram.com/fandyalfando56?igsh=MWZ0d2wwaG9lN2MyYg%3D%3D&utm_source=qr
+- Linkedln : https://www.linkedin.com/in/fandy-yoku-a0264a176/
